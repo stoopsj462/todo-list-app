@@ -1,0 +1,12 @@
+# Todo List App Dependencies
+# Note: tkinter is included with Python standard library
+
+# For creating standalone executable
+pyinstaller>=5.0
+
+# For better packaging (optional)
+setuptools>=65.0
+wheel>=0.37.0
+
+# Development dependencies (optional)
+pip-tools>=6.0.0

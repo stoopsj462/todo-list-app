@@ -1,0 +1,170 @@
+{
+  "current_list_name": "Shopping",
+  "lists": {
+    "Work": {
+      "name": "Work",
+      "items": [
+        {
+          "title": "Review quarterly reports",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Prepare presentation for Monday",
+          "completed": true,
+          "completion_date": "2025-09-19 14:12:09"
+        },
+        {
+          "title": "Schedule team meeting",
+          "completed": true,
+          "completion_date": "2025-09-19 14:12:09"
+        },
+        {
+          "title": "Update project timeline",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Review quarterly reports",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Prepare presentation for Monday",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Schedule team meeting",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Update project timeline",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Review quarterly reports",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Prepare presentation for Monday",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Schedule team meeting",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Update project timeline",
+          "completed": false,
+          "completion_date": null
+        }
+      ]
+    },
+    "Personal": {
+      "name": "Personal",
+      "items": [
+        {
+          "title": "Call dentist for appointment",
+          "completed": true,
+          "completion_date": "2025-09-19 14:12:09"
+        },
+        {
+          "title": "Pick up dry cleaning",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Plan weekend trip",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Call dentist for appointment",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Pick up dry cleaning",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Plan weekend trip",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Call dentist for appointment",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Pick up dry cleaning",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Plan weekend trip",
+          "completed": false,
+          "completion_date": null
+        }
+      ]
+    },
+    "Shopping": {
+      "name": "Shopping",
+      "items": [
+        {
+          "title": "Buy groceries",
+          "completed": true,
+          "completion_date": "2025-09-19 14:12:09"
+        },
+        {
+          "title": "Get birthday gift for mom",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Pick up prescription",
+          "completed": true,
+          "completion_date": "2025-09-19 14:12:09"
+        },
+        {
+          "title": "Buy groceries",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Get birthday gift for mom",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Pick up prescription",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Buy groceries",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Get birthday gift for mom",
+          "completed": false,
+          "completion_date": null
+        },
+        {
+          "title": "Pick up prescription",
+          "completed": false,
+          "completion_date": null
+        }
+      ]
+    }
+  }
+}
